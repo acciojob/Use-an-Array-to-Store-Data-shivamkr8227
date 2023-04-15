@@ -1,2 +1,1 @@
-let yourArray={1 , 2, "sae" ,true , 77};
-return yourArray;
+let yourArray = ['hello', 42, true, null, 'world'];
